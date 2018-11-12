@@ -1,27 +1,57 @@
-# [Welcome to Dynamics NAV](index.md)
+# [Velkommen til MindKey](index.md)
 
-# [Getting Started](across-get-started.md)
-## [Minimum Requirements](financials-requirements.md)
-## [Frequently Asked Questions](across-faq.md)
-## [Overview of Business Functionality](madeira-business-functionality.md)
-## [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md)
-## [Importing Business Data from Other Finance Systems](upload-data.md)
-## [Getting Dynamics NAV on Your Mobile Device](install-mobile-app.md)
-## [Synchronize with Contacts in Microsoft Outlook](admin-synchronize-outlook-contacts.md)
-## [Using Dynamics NAV as Your Business Inbox in Outlook](madeira-outlook.md)
-## [Using Dynamics NAV Without Outlook](madeira-no-outlook.md)
-## [Enabling Your Business Data for Power BI](madeira-powerbi.md)
-## [Using Dynamics NAV as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)
-## [Customizing Dynamics NAV Using Extensions](ui-extensions.md)
+# [Introduktion](.md)
+## [Få hjælp mens du arhejder](getting-the-help-you-need-while-you-work.md)
+## [Bruge MindKey-arbejdspladsen](using-the-mindkey-workspace.md)
+## [Tilpas aktuel visning](customize-the-current-view.md)
+## [Gendanne visninger](delete-views.md)
+## [Om feltvælgeren](be-choosy-with-the-field-chooser.md)
+## [Tilpas aktuelle periode](tilpas-aktuelle-periode.md)
+## [Om oplysninger, advarsler og fejl](about-information-warnings-and-errors.md)
+## [Vedhæfte en fil eller en note til en post](attach-a-file-or-note-to-a-record.md)
+## [Rediger, erstat eller fjern en fil eller en note](edit-replace-or-remove-a-file-or-note.md)
 
-# Tips and Tricks
-## [Working with Dynamics NAV](ui-work-product.md)
-## [Using Search for Page or Report](ui-search.md)
-## [Changing Basic Settings](ui-change-basic-settings.md)
-## [How to: Change the Role Center](change-role.md)
-## [Customizing Dynamics NAV](ui-customizing-overview.md)
-## [Letting Dynamics NAV Suggest Values](ui-let-system-suggest-values.md)
-## [Printing a Report](ui-work-report.md#PrintReport)
-## [Language and Locale](about-locale-language.md)  
-## [Languages of the Docs](about-languages.md)
-## [Accessibility and Keyboard Shortcuts](ui-accessibility.md)
+# Organisation
+## Opsætte din organisation
+### [Strukturere din organisation](structuring-your-organization.md)
+### [Om forholdet mellem medarbejder og leder](about-the-relation-between-employee-and-manager.md)
+### [Opsætte en årsagskode](set-up-a-reason-code.md)
+### [Opsætte en ansættelseskategori](set-up-an-employment-category.md)
+### [Opsætte en teamrolle](set-up-a-team-role.md)
+
+## Arbejde med afdelinger og teams
+### [Oprette en afdeling](create-an-organization-unit.md)
+### [Oprette et team](create-a-team.md)
+### [Tildele medlemmer til et team](assign-members-to-a-unit-or-team.md)
+### [Sådan defineres kompetencer for en afdeling eller et team](define-skills-for-a-unit-or-team.md)
+### [Vise aktuel og tidligere ansættelse i en afdeling](viewing-current-and-past-employment-in-an-organization-unit.md)
+### [Oprette og opsætte en stilling](create-a-position.md)
+
+## Arbejde med job
+### [Mere end bare et job](.md)
+### [Opsætte en jobtype](set-up-a-goal-type.md)
+### [Oprette et job](create-a-job.md)
+### [Visning og opdatering af kompetencematrix for jobs, afdelinger og teams](viewing-and-updating-a-skills-matrix-for-jobs-organization-units-and-teams.md)
+### [Vise aktuel og tidligere ansættelse i et job](viewing-current-and-past-employment-in-a-job.md)
+
+## Opsætte medarbejdere
+### [Om medarbejderstamdata](about-employee-master-data.md.md)
+### [Om medarbejderrekvisitioner](about-employee-requisitions.md)
+### [Godkende/afslå en medarbejderrekvisition](approve-reject-job-requisition.md)
+
+## Basisdata for medarbejdere
+### [Om brugerdefinerede kolonner](about-user-defined-columns.md)
+### [Udlevere udstyr](.md)
+### [Give en bonus](.md)
+### [Udstede aktieoptioner](.md)
+### [Vedhæftning af medarbejderbilleder](.md)
+### [Rydde op i medarbejderdata](.md)
+### [Om karriereveje](.md)
+### [Vælge en karrierevej](.md)
+
+## Ansættelsestilknytninger 
+### [](.md)
+### [](.md)
+### [](.md)
+### [](.md)
+### [](.md)
