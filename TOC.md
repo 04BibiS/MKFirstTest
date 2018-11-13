@@ -2,14 +2,14 @@
 
 # [Introduktion](.md)
 ### [Få hjælp mens du arbejder](getting-the-help-you-need-while-you-work.md)
-## [Bruge MindKey-arbejdspladsen](using-the-mindkey-workspace.md)
-## [Tilpas aktuel visning](customize-the-current-view.md)
-## [Gendanne visninger](delete-views.md)
-## [Om feltvælgeren](be-choosy-with-the-field-chooser.md)
-## [Tilpas aktuelle periode](tilpas-aktuelle-periode.md)
-## [Om oplysninger, advarsler og fejl](about-information-warnings-and-errors.md)
-## [Vedhæfte en fil eller en note til en post](attach-a-file-or-note-to-a-record.md)
-## [Rediger, erstat eller fjern en fil eller en note](edit-replace-or-remove-a-file-or-note.md)
+### [Bruge MindKey-arbejdspladsen](using-the-mindkey-workspace.md)
+### [Tilpas aktuel visning](customize-the-current-view.md)
+### [Gendanne visninger](delete-views.md)
+### [Om feltvælgeren](be-choosy-with-the-field-chooser.md)
+### [Tilpas aktuelle periode](tilpas-aktuelle-periode.md)
+### [Om oplysninger, advarsler og fejl](about-information-warnings-and-errors.md)
+### [Vedhæfte en fil eller en note til en post](attach-a-file-or-note-to-a-record.md)
+### [Rediger, erstat eller fjern en fil eller en note](edit-replace-or-remove-a-file-or-note.md)
 
 # Organisation
 ## Opsætte din organisation
@@ -114,9 +114,26 @@
 ### [Om kursusønsker](about-course-requests.md)
 ### [Tilmeld en kursusdeltager](register-a-course-attendee.md)
 
+## Medarbejderreview
+### [Om medarbejderreview](om-talent-review.md)
+### [Om 9-feltsmodeller](om-9-feltsmodeller.md)
+### [Oprette 9-feltsmodeller](oprette-9-feltsmodeller.md)
+
+## Kompetencer
+### [Om opsætning af kompetencer](about-setting-up-skills.md)
+### [Opsætte kompetencer](set-up-skills.md)
+### [Opsætte et certifikat](set-up-a-certificate.md)
+### [Opsætte en uddannelsestype](set-up-an-education-type.md)
+
+## Kompetenceprofiler
+### [Om kompetenceprofiler og kompetencegab](about-skill-profiles.md)
+### [Vise en kompetencehistorik](viewing-a-skill-history.md)
+### [Visning og opdatering af kompetencematrix for jobs, afdelinger og teams](viewing-and-updating-a-skills-matrix-for-jobs-organization-units-and-teams.md)
+
+## Kompetencegab
+### [Om kompetence-gap analyser](.md)
+### [Dreje kompetencehjulet](.md)
+### [Foretage en kompetence-gap-analyse](.md)
 
 
-### [](.md)
-### [](.md)
-### [](.md)
 ### [](.md)
