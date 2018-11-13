@@ -71,24 +71,51 @@
 ### [Opsætte en kørselsgruppe](setup-mileage-groups.md)
 ### [Opsætte en kørselsperiode](setup-mileage-periods.md)
 ### [Oprette en kørselskladde](create-a-mileage-journal.md)
-### [Afslutte en kørselskladde ](.md)
+### [Afslutte en kørselskladde ](complete-a-mileage-journal.md)
 ### [Visning af kørselssaldi](view-mileage-balance.md)
 
 ## Timer
-### [Om timer](.md)
-
-### [Opsætte en timekode](.md)
-### [Opsætte en timegruppe](.md)
-### [Opsætte en arbejdskalender](.md)
-### [Oprette en timekladde](.md)
-### [Afslutte en timekladde](.md)
+### [Om timer](about-time-tracking.md)
+### [Opsætte en timekode](set-up-a-time-tracking-code.md)
+### [Opsætte en timegruppe](set-up-a-time-tracking-group.md)
+### [Opsætte en arbejdskalender](set-up-a-work-calendar.md)
+### [Oprette en timekladde](create-a-time-tracking-journal.md)
+### [Afslutte en timekladde](complete-a-time-tracking-journal.md)
 ### [Visning af timesaldi](view-time-tracking-balance.md)
 ### [Administrer timesaldi](manage-time-tracking-balances.md)
 
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
+## Ferie og fravær
+### [Om ferie og fravær](about-leave.md)
+### [Opsætte en ferie og fraværstype](set-up-a-job-type.md)
+### [Opsætte en ferie og fraværskode](set-up-a-leave-code.md)
+### [Opsætte en ferie og fraværsgruppe](set-up-a-leave-group.md)
+### [Oprette en ferie - og fraværskladde](create-a-leave-journal.md)
+### [Afslutte en ferie og fraværskladde ](complete-a-leave-journal.md)
+### [Visning af ferie og fraværssaldi](view-leave-balance.md)
+### [Administrer ferie og fraværssaldi](managing-leave-balances.md)
+
+# Udvikling
+## Samtaler
+### [Om oprettelse og planlægning af samtaler](.md)
+### [Om samtaletyper](.md)
+### [Opsætte en samtaletype](.md)
+### [Oprette og planlægge en samtale](.md)
+### [Administrere samtaler](.md)
+
+## Kurser
+### [Om at arbejde med kurser](.md)
+### [Opsætte en kursustype](.md)
+### [Opsætte kursuslokationer](.md)
+### [Opsætte en kursusunderviser](.md)
+### [Opsætte kursusudbydere](.md)
+### [Oprette et kursus](.md)
+### [Planlægge et kursus](.md)
+### [Genplanlægge eller annullere et kursus](.md)
+### [Om kursusønsker](.md)
+### [Tilmeld en kursusdeltager](.md)
+
+
+
 ### [](.md)
 ### [](.md)
 ### [](.md)
