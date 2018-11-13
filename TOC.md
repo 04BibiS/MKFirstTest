@@ -1,7 +1,7 @@
 # [Velkommen til MindKey](index.md)
 
 # [Introduktion](.md)
-## [Få hjælp mens du arhejder](getting-the-help-you-need-while-you-work.md)
+## [Få hjælp mens du arbejder](getting-the-help-you-need-while-you-work.md)
 ## [Bruge MindKey-arbejdspladsen](using-the-mindkey-workspace.md)
 ## [Tilpas aktuel visning](customize-the-current-view.md)
 ## [Gendanne visninger](delete-views.md)
@@ -56,7 +56,37 @@
 ### [Flytte en medarbejder til en anden afdeling ](move-an-employee-to-another-unit.md)
 ### [Afslutte en ansættelse ](terminate-employment.md)
 
+## Advokatansatte
+### [Om advokatmodulet](about-lawyer-module.md)
+### [Om anciennitetstrin](seniority-steps.md)
+### [Om obligatorisk efteruddannelse](mandatory-training.md)
+### [Opsætte træningskategorier](training-categories.md)
+### [Ansættelse af advokater](employment-of-lawyers.md)
 
+# Tid
+## Kørsel
+### [Om kørsel](about-mileage.md)
+### [Opsætte satser](.md)
+### [Opsætte en kørselskode](set-up-mileage-codes.md)
+### [Opsætte en kørselsgruppe](setup-mileage-groups.md)
+### [Opsætte en kørselsperiode](setup-mileage-periods.md)
+### [Oprette en kørselskladde](create-a-mileage-journal.md)
+### [Afslutte en kørselskladde ](.md)
+### [Visning af kørselssaldi](view-mileage-balance.md)
+
+## Timer
+### [Om timer](.md)
+
+### [Opsætte en timekode](.md)
+### [Opsætte en timegruppe](.md)
+### [Opsætte en arbejdskalender](.md)
+### [Oprette en timekladde](.md)
+### [Afslutte en timekladde](.md)
+### [Visning af timesaldi](view-time-tracking-balance.md)
+### [Administrer timesaldi](manage-time-tracking-balances.md)
+
+### [](.md)
+### [](.md)
 ### [](.md)
 ### [](.md)
 ### [](.md)
