@@ -28,7 +28,7 @@
 ### [Oprette og opsætte en stilling](create-a-position.md)
 
 ## Arbejde med job
-### [Mere end bare et job](.md)
+### [Mere end bare et job](it-s-more-than-just-a-job.md)
 ### [Opsætte en jobtype](set-up-a-goal-type.md)
 ### [Oprette et job](create-a-job.md)
 ### [Visning og opdatering af kompetencematrix for jobs, afdelinger og teams](viewing-and-updating-a-skills-matrix-for-jobs-organization-units-and-teams.md)
@@ -41,15 +41,23 @@
 
 ## Basisdata for medarbejdere
 ### [Om brugerdefinerede kolonner](about-user-defined-columns.md)
-### [Udlevere udstyr](.md)
+### [Udlevere udstyr](issue-equipment.md)
 ### [Give en bonus](.md)
-### [Udstede aktieoptioner](.md)
-### [Vedhæftning af medarbejderbilleder](.md)
-### [Rydde op i medarbejderdata](.md)
-### [Om karriereveje](.md)
+### [Udstede aktieoptioner](issue-stock-options.md)
+### [Vedhæftning af medarbejderbilleder](attaching-employee-pictures.md)
+### [Rydde op i medarbejderdata](clean-up-employee-data.md)
+### [Om karriereveje](about-career-paths.md)
 ### [Vælge en karrierevej](.md)
 
 ## Ansættelsestilknytninger 
+### [Om medarbejdertilknytninger](about-employee-affiliations.md)
+### [Om forholdet mellem medarbejder og leder](about-the-relation-between-employee-and-manager.md)
+### [Opsætte og ansætte en medarbejder](hire-an-employee.md)
+### [Flytte en medarbejder til en anden afdeling ](move-an-employee-to-another-unit.md)
+### [Afslutte en ansættelse ](terminate-employment.md)
+
+
+### [](.md)
 ### [](.md)
 ### [](.md)
 ### [](.md)
