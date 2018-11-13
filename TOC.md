@@ -1,7 +1,7 @@
 # [Velkommen til MindKey](index.md)
 
 # [Introduktion](.md)
-## [Få hjælp mens du arbejder](getting-the-help-you-need-while-you-work.md)
+### [Få hjælp mens du arbejder](getting-the-help-you-need-while-you-work.md)
 ## [Bruge MindKey-arbejdspladsen](using-the-mindkey-workspace.md)
 ## [Tilpas aktuel visning](customize-the-current-view.md)
 ## [Gendanne visninger](delete-views.md)
@@ -96,23 +96,23 @@
 
 # Udvikling
 ## Samtaler
-### [Om oprettelse og planlægning af samtaler](.md)
-### [Om samtaletyper](.md)
-### [Opsætte en samtaletype](.md)
-### [Oprette og planlægge en samtale](.md)
-### [Administrere samtaler](.md)
+### [Om oprettelse og planlægning af samtaler](about-creating-and-scheduling-dialogs.md)
+### [Om samtaletyper](about-discussion-types.md)
+### [Opsætte en samtaletype](set-up-a-discussion-type.md)
+### [Oprette og planlægge en samtale](create-and-schedule-a-dialog.md)
+### [Administrere samtaler](manage-discussions.md)
 
 ## Kurser
-### [Om at arbejde med kurser](.md)
+### [Om at arbejde med kurser](about-working-with-training-courses.md)
 ### [Opsætte en kursustype](.md)
-### [Opsætte kursuslokationer](.md)
-### [Opsætte en kursusunderviser](.md)
-### [Opsætte kursusudbydere](.md)
+### [Opsætte kursuslokationer](set-up-course-locations.md)
+### [Opsætte en kursusunderviser](assign-a-course-instructor.md)
+### [Opsætte kursusudbydere](set-up-course-providers.md)
 ### [Oprette et kursus](.md)
-### [Planlægge et kursus](.md)
-### [Genplanlægge eller annullere et kursus](.md)
-### [Om kursusønsker](.md)
-### [Tilmeld en kursusdeltager](.md)
+### [Planlægge et kursus](schedule-a-course.md)
+### [Genplanlægge eller annullere et kursus](reschedule-or-cancel-a-course.md)
+### [Om kursusønsker](about-course-requests.md)
+### [Tilmeld en kursusdeltager](register-a-course-attendee.md)
 
 
 
