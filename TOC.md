@@ -131,9 +131,30 @@
 ### [Visning og opdatering af kompetencematrix for jobs, afdelinger og teams](viewing-and-updating-a-skills-matrix-for-jobs-organization-units-and-teams.md)
 
 ## Kompetencegab
-### [Om kompetence-gap analyser](.md)
-### [Dreje kompetencehjulet](.md)
-### [Foretage en kompetence-gap-analyse](.md)
+### [Om kompetence-gap analyser](about-skill-gap-analyses.md)
+### [Dreje kompetencehjulet](spinning-the-skill-wheel.md)
+### [Foretage en kompetence-gap-analyse](perform-a-skill-gap-analysis.md)
+
+## Spørgeskemaer
+### [Om spørgeskemaer i MindKey](about-surveys-in-mindkey-hcm.md)
+### [Om opsætning af spørgeskemadesign](about-setting-up-survey-designs.md)
+### [Opsætte et spørgeskemadesign](set-up-a-survey-design.md)
+### [Om spørgsmålsgrupper og spørgsmål](about-question-groups-and-questions.md)
+### [Opsætte spørgsmålsgrupper](set-up-question-groups.md)
+### [Oprette spørgsmål til en spørgsmålsgruppe](create-a-question-for-a-question-group.md)
+### [Opsætte en gruppe af svarmuligheder](.md)
+### [Kopiere et spørgeskemadesign](.md)
+### [Kopiere en undersøgelse](copy-a-survey.md)
+### [Planlægge en undersøgelse](plan-a-survey.md)
+### [Sende invitation og påminde deltagere](.md)
+### [Afslutte en undersøgelse](complete-a-survey.md)
+### [Annullere en undersøgelse](.md)
+
+## Mål og aktiviteter
+### [Indstille S.M.A.R.T. performance-mål](.md)
+### [Opsætte en måltype](.md)
+### [Opsætte en målkategori](.md)
+### [Visning af mål](.md)
 
 
 ### [](.md)
