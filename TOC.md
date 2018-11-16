@@ -180,22 +180,48 @@
 
 # Administration
 ## Systemadministratoropgaver
-### [](.md)
-### [](.md)
+### [Opsætte rettigheder](.md)
+### [Om dataroller](.md)
+### [Oprette dataroller](.md)
+### [Tildele rettigheder](.md)
+### [Tildele datarollemedlemsskab](.md)
+### [Administrere licensoplysninger](.md)
+### [Om integration](.md)
+### [Importere data](.md)
+### [Eksportere data](.md)
+### [Konfigurere overvågning](.md)
+### [Vise loggede handlinger](.md)
+### [Vise en oversigt over brugerlogon](.md)
+
 
 ## MindKey Azure
-### [](.md)
-### [](.md)
+### [Om MindKey Azure](.md)
+### [Sikkerhed i MindKey Azure](.md)
+
 
 ## Generel opsætning
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
-### [](.md)
+### [Indstille parametre](.md)
+### [Om nummersekvenser](.md)
+### [Opsætte en vurderingmodel](.md)
+### [Om brevfletning](.md)
+### [Oprette en forsendelsesskabelon](.md)
+### [Oprette en dokumenttype](.md)
+### [Oprette en filtype](.md)
+### [Skrive firmaoplysninger](.md)
+
+## Workflows
+### [Om workflows](.md)
+### [Aktivere eller deaktivere workflowskabeloner](.md)
+### [Rette workflowskabelontekst](.md)
+### [Oprette workflowmodtagergrupper](.md)
+### [Tildele workflowroller til medarbejdere](.md)
+### [Vise startede workflows](.md)
+### [Om indholdsdrevne workflows](.md)
+### [Oprette en checklisteskabelon](.md)
+### [Bruge checklisteskabeloner](.md)
+
+## Rapportgalleri
+### [Bruge Reporting Services](.md)
+### [Bruge værktøjet Rapportkonfiguration](.md)
+### [Om rapportabonnementer](.md)
+### [Oprette abonnement for en medarbejder](.md)
