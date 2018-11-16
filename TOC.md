@@ -181,36 +181,36 @@
 # Administration
 ## Systemadministratoropgaver
 ### [Opsætte rettigheder](.md)
-### [Om dataroller](.md)
-### [Oprette dataroller](.md)
-### [Tildele rettigheder](.md)
-### [Tildele datarollemedlemsskab](.md)
-### [Administrere licensoplysninger](.md)
-### [Om integration](.md)
-### [Importere data](.md)
-### [Eksportere data](.md)
-### [Konfigurere overvågning](.md)
+### [Om dataroller](about-data-roles.md)
+### [Oprette dataroller](set-up-data-roles.md)
+### [Tildele rettigheder](tildele-rettigheder.md)
+### [Tildele datarollemedlemsskab](about-mindkey-azure.md)
+### [Administrere licensoplysninger](managing-license-information.md)
+### [Om integration](about-integration.md)
+### [Importere data](import-a-data-file.md)
+### [Eksportere data](export-a-data-file.md)
+### [Konfigurere overvågning](set-up-auditing.md)
 ### [Vise loggede handlinger](.md)
 ### [Vise en oversigt over brugerlogon](.md)
 
 
 ## MindKey Azure
-### [Om MindKey Azure](.md)
-### [Sikkerhed i MindKey Azure](.md)
+### [Om MindKey Azure](about-mindkey-azure.md)
+### [Sikkerhed i MindKey Azure](sikkerhed-i-mindkey-azure.md)
 
 
 ## Generel opsætning
-### [Indstille parametre](.md)
-### [Om nummersekvenser](.md)
-### [Opsætte en vurderingmodel](.md)
-### [Om brevfletning](.md)
-### [Oprette en forsendelsesskabelon](.md)
-### [Oprette en dokumenttype](.md)
-### [Oprette en filtype](.md)
-### [Skrive firmaoplysninger](.md)
+### [Indstille parametre](set-parameters.md)
+### [Om nummersekvenser](about-number-sequences.md)
+### [Opsætte en vurderingmodel](set-up-a-rating-model.md)
+### [Om brevfletning](about-mail-merge.md)
+### [Oprette en forsendelsesskabelon]()
+### [Oprette en dokumenttype](create-a-document-type.md)
+### [Oprette en filtype](create-a-file-type.md)
+### [Skrive firmaoplysninger](enter-your-company-information.md)
 
 ## Workflows
-### [Om workflows](.md)
+### [Om workflows](about-workflows.md)
 ### [Aktivere eller deaktivere workflowskabeloner](.md)
 ### [Rette workflowskabelontekst](.md)
 ### [Oprette workflowmodtagergrupper](.md)
