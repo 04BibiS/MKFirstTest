@@ -35,7 +35,7 @@
 ### [Vise aktuel og tidligere ansættelse i et job](viewing-current-and-past-employment-in-a-job.md)
 
 ## Opsætte medarbejdere
-### [Om medarbejderstamdata](about-employee-master-data.md.md)
+### [Om medarbejderstamdata](about-employee-master-data.md)
 ### [Om medarbejderrekvisitioner](about-employee-requisitions.md)
 ### [Godkende/afslå en medarbejderrekvisition](approve-reject-job-requisition.md)
 
