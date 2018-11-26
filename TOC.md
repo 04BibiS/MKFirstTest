@@ -23,7 +23,7 @@
 ### [Oprette en afdeling](create-an-organization-unit.md)
 ### [Oprette et team](create-a-team.md)
 ### [Tildele medlemmer til et team](assign-members-to-a-unit-or-team.md)
-### [Sådan defineres kompetencer for en afdeling eller et team](define-skills-for-a-unit-or-team.md)
+### [Definere kompetencer for en afdeling eller et team](define-skills-for-a-unit-or-team.md)
 ### [Vise aktuel og tidligere ansættelse i en afdeling](viewing-current-and-past-employment-in-an-organization-unit.md)
 ### [Oprette og opsætte en stilling](create-a-position.md)
 
