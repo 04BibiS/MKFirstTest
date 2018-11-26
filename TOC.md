@@ -29,7 +29,7 @@
 
 ## Arbejde med job
 ### [Mere end bare et job](it-s-more-than-just-a-job.md)
-### [Opsætte en jobtype](set-up-a-goal-type.md)
+### [Opsætte en jobtype](set-up-a-job-type.md)
 ### [Oprette et job](create-a-job.md)
 ### [Visning og opdatering af kompetencematrix for jobs, afdelinger og teams](viewing-and-updating-a-skills-matrix-for-jobs-organization-units-and-teams.md)
 ### [Vise aktuel og tidligere ansættelse i et job](viewing-current-and-past-employment-in-a-job.md)
